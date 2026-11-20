@@ -1,0 +1,14 @@
+# Core app
+streamlit>=1.40
+plotly
+
+# Data + modelling
+numpy
+pandas
+scikit-learn==1.9.1
+joblib
+
+# Notebook / EDA
+matplotlib
+seaborn
+jupyter
